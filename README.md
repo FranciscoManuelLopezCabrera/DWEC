@@ -9,5 +9,7 @@ Sirve para comunicarle a Git qué archivos y/o carpetas ignorar en un proyecto.
 
 ## Indicar 3 tipo de acciones que se puedan realizar con el .gitignore.
 ·Ignorar un unico archivo: "codigo.class"
+
 ·Ignorar un directorio entero: "/midirectoriodir/"
+
 ·Ignorar un tipo de archivo: ".java"
