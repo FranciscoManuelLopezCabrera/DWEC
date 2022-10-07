@@ -1,0 +1,39 @@
+/*Tenemos una clase llamada Frutas, dado que las frutas tienen sabores diferentes creamos una clase abstracta llamada sabor.*/
+
+
+abstract class Frutas{       
+  abstract void sabor();
+}
+
+class Manzana extends Frutas {
+  @Override
+    void sabor() {
+    System.out.println("Acido");
+    }
+  
+}
+
+public class Abstraccion {
+    public static void main(String[] args) {
+        Manzana a = new Manzana();
+            manzana.sabor();
+    }
+}
+
+/*Aquí tenemos otra clase llamada Mandarina que extiende Frutas. Su implementación es diferente a la del método de Manzana*/
+
+class Mandarina extends Frutas {
+    @Override
+    void sabor() {
+    System.out.println("Dulce");  
+    }
+}
+
+public class Abstraccion {
+    public static void main(String[] args) {
+        Manzana a = new Manzana();
+        Mandarina p = new Mandarina();
+        manzana.sabor();
+        mandarina.sabor();
+    }
+}

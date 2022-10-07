@@ -1,0 +1,20 @@
+public class MiClase{
+    
+    private int tipo;
+    
+    public void setTipo (int tipo) {
+        tipo=t;
+    }
+
+    public int getTipo(){
+        return tipo;
+    }
+}
+
+class AccesoIndirecto{
+    public static void main(String[] args) {
+        MiClase mc = new MiClase();
+        mc.setTipo(5);
+        System.out.println("El tipo es:" + mc.getTipo());
+    }
+}

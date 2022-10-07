@@ -1,0 +1,26 @@
+//Creacion de clase padre
+
+class Aeronave {
+    
+    // atributos de la clase padre
+    String tipoDeNave;
+    int annoDeConstruccion;
+    int id;
+
+}
+
+//Creacion de clase hija o subclase
+
+class Helicoptero extends Aeronave {
+    
+    //Atributo de la clase hija
+    int numeroDeAspas;
+}
+
+//Otra clase hija
+
+class Zepelling extends Aeronave {
+
+    //Atributo propio de la clase hija
+    int cantidadDeAire;
+}
