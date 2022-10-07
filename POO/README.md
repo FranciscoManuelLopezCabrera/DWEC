@@ -22,7 +22,7 @@ Se van a representar las Clases, Objetos e Instancias en Pseudocódigo, Java y P
 
 
 
-**Clases**
+**Una clase es una plantilla que no sirve para crear objetos de forma ya predefinida.**
 
 
 
@@ -32,7 +32,7 @@ Se van a representar las Clases, Objetos e Instancias en Pseudocódigo, Java y P
 
 
 
-**Objetos**
+**Un objeto es un ente abstracto que permite separar los diferentes componentes de un programa, simplificando así su elaboración, depuración y posteriores mejoras.**
 
 
 
@@ -42,7 +42,7 @@ Se van a representar las Clases, Objetos e Instancias en Pseudocódigo, Java y P
 
 
 
-**Instancias**
+**Una instancia es un elemento tangible generado a partir de una definición de clase. Todos los objetos empleados en un programa han de pertenecer a una clase determinada.**
 
 
 
