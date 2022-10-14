@@ -19,7 +19,7 @@ class Helicoptero extends Aeronave {
 
 //Otra clase hija
 
-class Zepelling extends Aeronave {
+class GloboAerostatico extends Aeronave {
 
     //Atributo propio de la clase hija
     int cantidadDeAire;

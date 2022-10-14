@@ -1,14 +1,21 @@
 //Método Anulación, redefinimos un metodo de una clase padre en una clase hija.
 
-//Creamos una clase llamada doctor y una clase que extiende de esta llamada cirujano
+//Creamos una clase llamada doctor y una clase que extiende de esta llamada cirujano y otra enfermera
 
 class Doctor {
-    //Metodo tratar paciente
+    // Metodo tratar paciente
     public void tratarPaciente() {
     }
 
     class Cirujano extends Doctor {
-        //Metodo tratar paciente
+        // Metodo tratar paciente
         public void tratarPaciente() {
         }
+
+    class Enfermera extends Doctor {
+        // Metodo tratar paciente
+        public void tratarPaciente() {
+            }
+        }
     }
+}
