@@ -9,6 +9,6 @@ class Doctor {
 
     class Cirujano extends Doctor {
         //Metodo tratar paciente
-        public void treatPatient() {
+        public void tratarPaciente() {
         }
     }
