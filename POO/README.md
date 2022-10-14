@@ -3,7 +3,7 @@
 
 
 
-> Tarea INTERMEDIA.
+> Tarea Avanzada.
 
 
 
