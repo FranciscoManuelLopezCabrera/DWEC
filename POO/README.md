@@ -21,14 +21,17 @@ Se van a representar las Clases, Objetos e Instancias en Pseudocódigo, Java y P
 
 Para realizar este apartado de Tarea AVANZADA, he creado un fichero de texto para realizar el apartado de _Pseudocodigo_, una carpeta para _Java_ y otra para _Python_.
 
-**UML de ejemplo para la solución**
+**UML Herencia**
 
 ![Herencia UML](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/POO/boletin/HerenciaUML.png)
+**UML Polimorfismo**
 ![Polimorfismo UML](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/POO/boletin/PolimorfismoUML.png)
 
 ---
 
 ### 💡 Pruebas
 
+**Prueba Herencia**
 ![Prueba Herencia](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/POO/boletin/Herencia.png)
+**Prueba Polimorfismo**
 ![Prueba Polimorfismo](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/POO/boletin/Polimorfismo.PNG)
