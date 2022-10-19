@@ -3,11 +3,11 @@
 
 > Tarea Avanzada.
 
-### 🔍 Análisis del problema
+###  Análisis del problema
 
 Se van a representar las Clases, Objetos e Instancias en Pseudocódigo, Java y Phyton.
 
-#### 🤔 ¿Qué son?
+####  ¿Qué son?
 
 **Una clase es una plantilla que no sirve para crear objetos de forma ya predefinida.**
 
@@ -17,18 +17,26 @@ Se van a representar las Clases, Objetos e Instancias en Pseudocódigo, Java y P
 
 ---
 
-### 📐 Diseño de la solución
+###  Diseño de la solución
 
 Para realizar este apartado de Tarea AVANZADA, he creado un fichero de texto para realizar el apartado de _Pseudocodigo_, una carpeta para _Java_ y otra para _Python_.
 
- - **UML Herencia**![Herencia UML](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/POO/boletin/HerenciaUML.png)
- - **UML Polimorfismo**![Polimorfismo UML](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/POO/boletin/PolimorfismoUML.png)
+**UML Herencia**
+<br/>
+![Herencia UML](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/POO/boletin/HerenciaUML.png "Herencia UML")
+<br/>
+**UML Polimorfismo**
+<br/>
+![Polimorfismo UML](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/POO/boletin/PolimorfismoUML.png "Polimorfismo UML")
  
 ---
 
-### 💡 Pruebas
+###  Pruebas
 
 **Prueba Herencia**
-![Prueba Herencia](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/POO/boletin/Herencia.png)
+<br/>
+![Prueba Herencia](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/POO/boletin/Herencia.png "Herencia Prueba")
+<br/>
 **Prueba Polimorfismo**
-![Prueba Polimorfismo](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/POO/boletin/Polimorfismo.PNG)
+<br/>
+![Prueba Polimorfismo](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/POO/boletin/Polimorfismo.PNG "Polimorfismo Prueba")
