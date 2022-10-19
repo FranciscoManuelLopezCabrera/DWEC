@@ -23,13 +23,12 @@ Para realizar este apartado de Tarea AVANZADA, he creado un fichero de texto par
 
 **UML de ejemplo para la solución**
 
-![UML](POO\boletin\HerenciaUML.PNG)
-![UML](POO\boletin\PolimofismoUML.PNG)
+![Herencia UML](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/POO/boletin/HerenciaUML.png)
+![Polimorfismo UML](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/POO/boletin/PolimorfismoUML.png)
 
 ---
 
 ### 💡 Pruebas
 
-![Pruebas](POO\boletin\Herencia.PNG)
-![Pruebas](POO\boletin\Polimofismo.PNG)
-
+![Prueba Herencia](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/POO/boletin/Herencia.png)
+![Prueba Polimorfismo](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/POO/boletin/Polimorfismo.PNG)
