@@ -25,6 +25,7 @@ Para realizar este apartado de Tarea AVANZADA, he creado un fichero de texto par
 <br/>
 ![Herencia UML](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/POO/boletin/HerenciaUML.png "Herencia UML")
 <br/>
+<br/>
 **UML Polimorfismo**
 <br/>
 ![Polimorfismo UML](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/POO/boletin/PolimorfismoUML.png "Polimorfismo UML")
@@ -36,6 +37,7 @@ Para realizar este apartado de Tarea AVANZADA, he creado un fichero de texto par
 **Prueba Herencia**
 <br/>
 ![Prueba Herencia](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/POO/boletin/Herencia.png "Herencia Prueba")
+<br/>
 <br/>
 **Prueba Polimorfismo**
 <br/>
