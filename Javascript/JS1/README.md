@@ -1,0 +1,2 @@
+# DWEC
+Primer ejercicio JS
