@@ -17,6 +17,11 @@ Para realizar la Tarea AVANZADA, he creado un script con JavaScript que genera u
 
 ---
 
+### Implementación
+
+En una funcion  recogeremos el id de la tabla del HTML y le daremos forma con dos bucles "For" que crearan las filas y el numero de celdas para crear las columnas. Dentro de cada celda usaremos una funcion de una libreria de datos aleatorios para rellenarlas. El numero de filas y columnas se recogera del HTML
+
+---
 ###  Pruebas
 
 **Prueba del script **
