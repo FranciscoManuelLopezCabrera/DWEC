@@ -21,8 +21,8 @@ Para realizar la Tarea AVANZADA, he creado un script con JavaScript que genera u
 
 **Prueba del script **
 <br/>
-![Prueba GIF(https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/Javascript/JS1/Avanzado/gif1.gif "Gif 1 Prueba")
+![Prueba GIF](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/Javascript/JS1/Avanzado/gif1.gif "Gif 1 Prueba")
 <br/>
-![Prueba GIF(https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/Javascript/JS1/Avanzado/gif2.gif "Gif 2 Prueba")
+![Prueba GIF](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/Javascript/JS1/Avanzado/gif2.gif "Gif 2 Prueba")
 
 
