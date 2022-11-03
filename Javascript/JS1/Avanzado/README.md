@@ -26,6 +26,7 @@ En una funcion  recogeremos el id de la tabla del HTML y le daremos forma con do
 
 **Prueba del script**
 <br/>
+<br/>
 ![Prueba GIF](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/Javascript/JS1/Avanzado/gif1.gif "Gif 1 Prueba")
 <br/>
 ![Prueba GIF](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/Javascript/JS1/Avanzado/gif2.gif "Gif 2 Prueba")
