@@ -1,0 +1,84 @@
+{
+    "mundo": [
+        {
+            "pais": "España",
+            "capital": "Madrid"
+        },
+        {
+            "pais": "Albania",
+            "capital": "Tirana"
+        },
+        {
+            "pais": "Alemania",
+            "capital": "Berlín"
+        },
+        {
+            "pais": "Andorra",
+            "capital": "Andorra la Vella"
+        },
+        {
+            "pais": "Francia",
+            "capital": "París"
+        },
+        {
+            "pais": "Reino Unido",
+            "capital": "Londres"
+        },
+        {
+            "pais": "Bélgica",
+            "capital": "Bruselas"
+        },
+        {
+            "pais": "Croacia",
+            "capital": "Zagreb"
+        },
+        {
+            "pais": "Dinamarca",
+            "capital": "Copenhage"
+        },
+        {
+            "pais": "Eslovaquia",
+            "capital": "Bratislava"
+        },
+        {
+            "pais": "Estonia",
+            "capital": "Tallin"
+        },
+        {
+            "pais": "Finlandia",
+            "capital": "Helsinki"
+        },
+        {
+            "pais": "Italia",
+            "capital": "Roma"
+        },
+        {
+            "pais": "Luxemburgo",
+            "capital": "Luxemburgo"
+        },
+        {
+            "pais": "Mónaco",
+            "capital": "Mónaco"
+        },
+        {
+            "pais": "Países Bajos",
+            "capital": "Ámsterdam"
+        },
+        {
+            "pais": "Polonia",
+            "capital": "Varsovia"
+        },
+        {
+            "pais": "Portugal",
+            "capital": "Lisboa"
+        },
+        {
+            "pais": "Rusia",
+            "capital": "Moscú"
+        },
+        {
+            "pais": "Republica Checa",
+            "capital": "Praga"
+        }
+    ]
+}
