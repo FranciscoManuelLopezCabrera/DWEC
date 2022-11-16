@@ -26,6 +26,6 @@ En una funcion ejecutaremos la creación de una tabla con el listado de los paí
 **Prueba del script**
 <br/>
 <br/>
-![Prueba GIF]( "Gif 1 Prueba")
+![Prueba GIF](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/Javascript/JS2/Intermedio/videos/videoCapitales.gif "Gif 1 Prueba")
 <br/>
-![Prueba GIF]( "Gif 2 Prueba")
+![Prueba GIF](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/Javascript/JS2/Intermedio/videos/videoPais.gif "Gif 2 Prueba")
