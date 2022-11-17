@@ -15,7 +15,6 @@ Se deberá representar en un HTML todos los datos que se generen en el método p
 Para realizar la tarea, he creado un script con JavaScript que genera una tabla de países y capitales de un listado previamente creado junto a dos funciones más que nos filtrarán los datos según el país o capital que insertemos en las barras de input del buscador siguiendo unos criterios de aceptación.
 
 <br/>
-<br/>
 
 ![UML](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/Javascript/JS2/Intermedio/videos/DIAGRAMA.png "UML")
 ---
