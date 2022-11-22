@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenedor {
+    height: 750px;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 3%;
+    text-align: center;
+}
+
+.titulo,
+.info {
+    text-align: center;
+    font-size: 18px;
+}
+
+.cuadricula {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 56px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 0;
+}
+
+.cuadro {
+    width: 5rem;
+    height: 5rem;
+    border: 1px solid grey;
+    text-align: center;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    transition: background-color ease-in 0.2s;
+}
+
+.cuadro:hover {
+    background-color: #cccc;
+}
+
+.boton {
+    font-size: 24px;
+    display: inline-flex;
+    padding: 1rem 1rem;
+    background: red;
+    color: white;
+    cursor: pointer;
+    justify-content: center;
+    font-weight: bold;
+    transition: color ease-out 0.3s;
+}
