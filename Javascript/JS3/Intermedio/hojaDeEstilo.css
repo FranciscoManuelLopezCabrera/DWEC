@@ -4,7 +4,25 @@
     box-sizing: border-box;
 }
 
+.contadorX {
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Allerta Stencil';
+    margin-bottom: 1%;
+}
+
+.contadorO {
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Allerta Stencil';
+    margin-top: 1%;
+    margin-bottom: 25px;
+}
+
 .contenedor {
+    margin-top: 30px;
     height: 750px;
     max-width: 100%;
     display: flex;
@@ -19,6 +37,12 @@
 .info {
     text-align: center;
     font-size: 18px;
+}
+
+.contador {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 1%;
 }
 
 .cuadricula {

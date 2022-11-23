@@ -1,12 +1,18 @@
 const cuadro_btn = document.querySelectorAll(".cuadro");
 const info = document.getElementById("info");
 const juego_btn = document.getElementById("boton");
+let scoreO = 0;
+let scoreX = 0;
+
+document.getElementById('contadorX').innerHTML = `Victorias '&#10060': ${scoreX}`;
+document.getElementById('contadorO').innerHTML = `Victorias '&#11093': ${scoreO}`;
+
 var i = 1;
 const jBtn_e = "pointer-events:initial;opacity:initial;",
   jBtn_d = "pointer-events:none;opacity:40%;";
 let estado = false;
 
-var pWin = [
+var ganarPartida = [
   [0, 1, 2],
   [3, 4, 5],
   [6, 7, 8],
@@ -19,21 +25,25 @@ var pWin = [
 
 function comprobar() {
   juego_btn.style.cssText = jBtn_d;
-  for (var j = 0; j < pWin.length; j++) {
+  for (var j = 0; j < ganarPartida.length; j++) {
     if (
-      cuadro_btn[pWin[j][0]].innerHTML === "X" &&
-      cuadro_btn[pWin[j][1]].innerHTML === "X" &&
-      cuadro_btn[pWin[j][2]].innerHTML === "X"
+      cuadro_btn[ganarPartida[j][0]].innerHTML === "X" &&
+      cuadro_btn[ganarPartida[j][1]].innerHTML === "X" &&
+      cuadro_btn[ganarPartida[j][2]].innerHTML === "X"
     ) {
       info.innerHTML = '<u>Jugador <b>"X"</b> Gana</u>';
+      scoreX++;
+      document.getElementById('contadorX').innerHTML = `Victorias '&#10060': ${scoreX}`;
       estado = true;
       deshabilitarCasillas();
     } else if (
-      cuadro_btn[pWin[j][0]].innerHTML === "O" &&
-      cuadro_btn[pWin[j][1]].innerHTML === "O" &&
-      cuadro_btn[pWin[j][2]].innerHTML === "O"
+      cuadro_btn[ganarPartida[j][0]].innerHTML === "O" &&
+      cuadro_btn[ganarPartida[j][1]].innerHTML === "O" &&
+      cuadro_btn[ganarPartida[j][2]].innerHTML === "O"
     ) {
       info.innerHTML = '<u>Jugador <b>"O"</b> Gana</u>';
+      scoreO++;
+      document.getElementById('contadorO').innerHTML = `Victorias '&#11093': ${scoreO}`;
       estado = true;
       deshabilitarCasillas();
     }
