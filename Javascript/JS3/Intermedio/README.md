@@ -1,12 +1,10 @@
-## JavaScript Tarea 2
+## JavaScript Tarea 3
 
 > Tarea Intermedia.
 
 ###  Análisis del problema ❓
 
-Queremos mostrar un listado de países y capitales junto a un buscador que nos filtrará y mostrará el país o capital que queremos buscar.
-
-Se deberá representar en un HTML todos los datos que se generen en el método previamente implementado.
+Queremos hacer un juego de tres en raya por navegador, que sea multijugador local y tenga un contador de victorias.
 
 ---
 
