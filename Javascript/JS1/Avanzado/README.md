@@ -30,7 +30,7 @@ Se genera una tabla de 5 filas y 10 columnas con datos aleatorios.
 <br/>
 ![Prueba GIF](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/Javascript/JS1/Avanzado/gif1.gif "Gif 1 Prueba")
 <br/>
-Al pulsar el botón de reset, se recargará la página con los nuevos cambios al codigo, luego se generará una tabla de 15 filas y 30 columnas con datos aleatorios, valores que previamente hemos cambiado.
+Al pulsar el botón de reset, se recargará la página con los nuevos cambios al codigo, numero de filas y columnas, que previamente hemos insertado, luego se generará una tabla de 15 filas y 30 columnas con datos aleatorios correspondientes.
 <br/>
 ![Prueba GIF](https://github.com/FranciscoManuelLopezCabrera/DWEC/blob/main/Javascript/JS1/Avanzado/gif2.gif "Gif 2 Prueba")
 
