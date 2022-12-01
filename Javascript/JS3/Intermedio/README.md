@@ -19,7 +19,7 @@ Para realizar la tarea tendremos que hacer varias funciones en el script: una qu
 
 ### Implementación 💥
 
-Ejecutaremos los scripts en un HTML para poder representar el juego.
+Ejecutaremos las funciones en un HTML para poder representar y ejecutar el juego "Tres en raya".
 
 ---
 ###  Pruebas 👨‍💻
