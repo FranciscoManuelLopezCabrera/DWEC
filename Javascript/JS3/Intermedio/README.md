@@ -19,7 +19,7 @@ Para realizar la tarea tendremos que hacer varias funciones en el script: una qu
 
 ### Implementación 💥
 
-En una funcion ejecutaremos la creación de una tabla con el listado de los países y sus capitales gracias a un listado creado previamente. Otras dos funciones mas, harán el trabajo de filtro para los buscadores que tendrán la página web.
+Ejecutaremos las funciones en un HTML para poder representar y ejecutar el juego "Tres en raya".
 
 ---
 ###  Pruebas 👨‍💻
