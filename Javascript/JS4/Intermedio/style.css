@@ -1,0 +1,67 @@
+table {
+    border: 1px solid;
+    width: auto;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+body {
+    background-image: url(./fondo.jpg);
+    align-self: center;
+}
+
+.cuerpo{
+    width:100%;
+    height:100%;
+    margin-top:auto;
+    margin-bottom:auto;
+    text-align:center;
+}
+
+.estiloTabla td {
+    font-size: 30px;
+    background-color: rgba(255, 255, 255, 0.39);
+}
+
+.fondoTR td {
+    background-color: #dddcdc;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+td {
+    border-spacing: 0;
+    border: 1px solid #000;
+}
+
+input {
+    width: 840px;
+    height: 20px;
+    margin-left: 18px;
+    font-size: 20px;
+    background-color: whitesmoke;
+}
+
+table img {
+    height: 5em;
+    aspect-ratio: 1/1;
+}
+
+button {
+    background-color: #C0C0C0;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 7px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
