@@ -39,3 +39,6 @@ Prueba en donde buscamos un Pokémon pero escrito erróneamente (Buscamos "Pique
 <br/>
 <br/>
 ![Prueba GIF](imagenes/Prueba2.gif "Prueba KO")
+<br/>
+<br/>
+![Plan de Pruebas](imagenes/Pruebas_Pokedex.xlsx "Excel de Pruebas")
